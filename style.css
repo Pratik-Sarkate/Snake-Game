@@ -1,0 +1,21 @@
+body{
+    background-color: #C1DEAE;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+    margin: 10px 0 0 0;
+}
+
+#my-canvas{
+    background-image: url("src/background.jpg");
+    border: 20px solid green;
+    height: 600px;
+    width: 600px;
+}
